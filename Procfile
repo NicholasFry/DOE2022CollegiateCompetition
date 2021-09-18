@@ -1,2 +1,2 @@
-web: gunicorn doe2022collegiatecompetition.wsgi
+web: gunicorn DOE2022collegiatecompetition.wsgi
 release: python manage.py migrate
